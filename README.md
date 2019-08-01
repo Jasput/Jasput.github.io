@@ -1,29 +1,3 @@
 # Jasput.github.io
 
-<html>
- <head>
-     <meta charset="utf-8">
-     <title> Catticus Cortex </title>
-     <link href="https://fonts.googleapis.com/css?family=Slabo+27px&display=swap" rel="stylesheet">
-     <link href="styles/style.css" rel="stylesheet">
-     
 
- </head>  
- <body>
-     <h1> This is the absurd cat named Boris.</h1>
-     <img src= "C:\Users\User\Desktop\Web- Projects\Images\Cat 3.jpg" alt="Weirdo Cat" title= "A Wild Kitty Cat on the loose">
-     <p>  At Kitty Catticus, we're a global community of cats that</p>
-
-     <ul>
-         <li> eat lots of chicken</li>
-         <li> play with balls of yarn</li>
-         <li> sleep 18 hours a day</li>
-         </ul>
-
-<p> aiming to create a conglomerate that will take over the world.</p>
-<a href="http://www.lolcats.com/" >DO NOT CLICK THIS LINK</a> 
-
-<button> Change user </button>
-<script src="scripts/main.js" ></script></script>
- </body> 
-</html>
